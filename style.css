@@ -1,0 +1,29 @@
+body {
+  background-color: #ffe6e6;
+}
+
+img {
+  height: 17%;
+  width: 100%;
+}
+
+table, td {
+  border: 3px solid black;
+}
+#inp{font-size: 16px;
+margin: 4px -4px;
+padding: 16px 40px;}
+#subs {
+  border: none;
+  background-color: #26211f;
+  color: white;
+  font-size: 16px;
+  margin: 4px -4px;
+  padding: 16px 40px;
+}
+
+.submit {
+  padding: 14px 70px;
+  font-size: 15px;
+  margin-bottom: 30px;
+}
